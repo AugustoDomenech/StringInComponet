@@ -2,9 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2019/11/28 22:12:50.000.465,=C:\Users\augus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/11/28 22:36:09.000.060,C:\Users\augus\Desktop\String Component Delphi\uMan.fmx=C:\Users\augus\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
-    <Transaction>2019/11/28 22:36:09.000.060,C:\Users\augus\Desktop\String Component Delphi\uMan.pas=C:\Users\augus\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/11/28 22:36:21.000.518,C:\Users\augus\Desktop\String Component Delphi\StringComponent.dproj=C:\Users\augus\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/11/28 22:36:09.000.060,C:\Users\augus\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\augus\Desktop\String Component Delphi\uMan.fmx</Transaction>
+    <Transaction>2019/11/28 22:36:09.000.060,C:\Users\augus\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\augus\Desktop\String Component Delphi\uMan.pas</Transaction>
+    <Transaction>2019/11/28 22:36:21.000.518,C:\Users\augus\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\augus\Desktop\String Component Delphi\StringComponent.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>
